@@ -1,1 +1,1 @@
-![Metrics](https://github.com/mloldacre/mloldacre/blob/master/github-metrics.svg)
+![Metrics](https://metrics.lecoq.io/mloldacre)
