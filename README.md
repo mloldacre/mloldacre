@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/mloldacre)
+![Metrics](https://metrics.lecoq.io/mloldacre?template=classic&languages=1&posts=1&tweets=1&isocalendar=1&posts.limit=2&posts.source=dev.to&isocalendar.duration=half-year&tweets.limit=2&config.timezone=America%2FNew_York)
